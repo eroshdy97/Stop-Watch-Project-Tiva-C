@@ -1,7 +1,5 @@
 # Microcontroller Stopwatch Project
 
-![Project Preview](project_preview.jpg)
-
 This project implements a stopwatch application using a microcontroller. The stopwatch is controlled through switch inputs and displayed on an LCD screen.
 
 ## Table of Contents
