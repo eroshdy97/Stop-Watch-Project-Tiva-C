@@ -7,12 +7,15 @@
 ## Features
 
 🚀 Start, pause, and reset the stopwatch using physical buttons.
+
 🕐 Display the elapsed time in the format "HH:MM:SS.m" on an LCD screen.
 
 ## Hardware Requirements
 
 🛠️ Tiva-C Series TM4C123GH6PM microprocessor board.
+
 🖥️ LCD display.
+
 🔌 Connecting wires.
 
 ## Project Demo
@@ -58,6 +61,7 @@
 ## Future Work
 
 🔮 Add lap time functionality.
+
 ⏱️ Implement a countdown timer mode.
 
 ## Contributing
