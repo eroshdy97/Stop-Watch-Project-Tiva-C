@@ -1,57 +1,68 @@
 # Microcontroller Stopwatch Project
 
-This project implements a stopwatch application using a microcontroller. The stopwatch is controlled through switch inputs and displayed on an LCD screen.
+## Overview
 
-## Table of Contents
+🕒 This project implements a stopwatch application using an ARM microprocessor Tiva-C Series TM4C123GH6PM. The stopwatch is controlled through switch inputs and displayed on an LCD screen. It was developed using Code Composer Studio and created as a hands-on project for EME Egypt's Make Electronics course to demonstrate interfacing with LCD and using the timers module on the microprocessor.
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Hardware Setup](#hardware-setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
+## Features
 
-## Introduction
+🚀 Start, pause, and reset the stopwatch using physical buttons.
+🕐 Display the elapsed time in the format "HH:MM:SS.m" on an LCD screen.
 
-This project demonstrates the use of a microcontroller to create a stopwatch application. The stopwatch can be started, paused, and reset using switches. The elapsed time is displayed on an LCD screen in the format "HH:MM:SS.m". This project is suitable for learning embedded systems programming and interfacing with hardware components.
+## Hardware Requirements
+
+🛠️ Tiva-C Series TM4C123GH6PM microprocessor board.
+🖥️ LCD display.
+🔌 Connecting wires.
+
+## Project Demo
+
+📽️ Check out the project in action! Watch the demo video: [Demo/demo.mp4](Demo/demo.mp4)
 
 ## Getting Started
 
-### Prerequisites
-
-Before you begin, ensure you have the following:
-
-- **Microcontroller**: This project was developed and tested on [Microcontroller Model](#), but it can be adapted for other models as well.
-- **IDE/Toolchain**: Install [IDE/Toolchain Name](#) for programming and uploading code to your microcontroller.
-- **Hardware Components**: Gather the following components:
-  - Microcontroller board
-  - LCD display
-  - Push buttons/switches
-  - LED indicators
-  - Connecting wires
-- **Basic Electronics Knowledge**: Familiarity with microcontroller I/O pins, GPIO setup, and circuit connections will be helpful.
-
 ### Hardware Setup
 
-1. Connect the LCD display to the microcontroller's GPIO pins as per the schematic provided in [schematic.png](schematic.png).
+1. Connect the LCD display to the microprocessor's GPIO pins.
 
-2. Connect the push buttons/switches for controlling the stopwatch and LEDs for indicators.
+2. Double-check your connections and ensure everything is properly wired before proceeding.
 
-3. Double-check your connections and ensure everything is properly wired before proceeding.
+### Software Compilation
 
-## Usage
+1. Install Code Composer Studio (IDE) for programming the microprocessor.
 
-1. Power on your microcontroller.
+2. Clone or download this repository to your local machine.
+
+3. Open the project in Code Composer Studio.
+
+4. Compile the source code to generate the binary file.
+
+### Upload the Code
+
+1. Connect your microprocessor board to your computer.
+
+2. Use Code Composer Studio to upload the compiled binary to the microprocessor.
+
+### Power Up
+
+1. Power on your microprocessor.
 
 2. The LCD display will show "00:00:00.0".
 
-3. Press Switch 1 to start the stopwatch. Press it again to reset the stopwatch.
+## Usage
 
-4. Press Switch 2 to pause/resume the stopwatch.
+1. Press Switch 2 to start the stopwatch. Press it again to reset the stopwatch.
+
+2. Press Switch 1 to pause/resume the stopwatch.
+
+## Future Work
+
+🔮 Add lap time functionality.
+⏱️ Implement a countdown timer mode.
 
 ## Contributing
 
-Contributions are welcome! Here's how you can contribute:
+🤝 Contributions are welcome! Here's how you can contribute:
 
 1. Fork this repository.
 
@@ -62,3 +73,11 @@ Contributions are welcome! Here's how you can contribute:
 4. Push to the branch: `git push origin feature/new-feature`.
 
 5. Open a pull request.
+
+## Acknowledgments
+
+🙌 This project draws inspiration from educational resources provided by Egypt Make Electronics (EME).
+
+## Contact
+
+ 📧 For inquiries, please contact [e.roshdy97@gmail.com](mailto:e.roshdy97@gmail.com).
