@@ -17,7 +17,7 @@
 
 ## Project Demo
 
-📽️ Check out the project in action! Watch the demo video: [Demo/demo.mp4](Demo/demo.mp4)
+📽️ Check out the project in action! Watch the demo video: [Demo Video](Demo/demo.mp4)
 
 ## Getting Started
 
