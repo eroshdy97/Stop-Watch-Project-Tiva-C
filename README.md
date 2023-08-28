@@ -2,22 +2,25 @@
 
 ## Overview
 
-🕒 This project implements a stopwatch application using an ARM microprocessor Tiva-C Series TM4C123GH6PM. The stopwatch is controlled through switch inputs and displayed on an LCD screen. It was developed using Code Composer Studio and created as a hands-on project for EME Egypt's Make Electronics course to demonstrate interfacing with LCD and using the timers module on the microprocessor.
+This project implements a stopwatch application using an ARM microprocessor Tiva-C Series TM4C123GH6PM. The stopwatch is controlled through switch inputs and displayed on an LCD screen. It was developed using Code Composer Studio and created as a hands-on project for EME Egypt's Make Electronics course to demonstrate interfacing with LCD and using the timers module on the microprocessor. 🕒
 
 ## Features
 
-🚀 Start, pause, and reset the stopwatch using physical buttons.
-🕐 Display the elapsed time in the format "HH:MM:SS.m" on an LCD screen.
+Start, pause, and reset the stopwatch using physical buttons. 🚀
+
+Display the elapsed time in the format "HH:MM:SS.m" on an LCD screen. 🕐
 
 ## Hardware Requirements
 
-🛠️ Tiva-C Series TM4C123GH6PM microprocessor board.
-🖥️ LCD display.
-🔌 Connecting wires.
+Tiva-C Series TM4C123GH6PM microprocessor board. 🛠️
+
+LCD display. 🖥️
+
+Connecting wires. 🔌
 
 ## Project Demo
 
-📽️ Check out the project in action! Watch the demo video: [Demo/demo.mp4](Demo/demo.mp4)
+Check out the project in action! Watch the demo video: [Demo Video](Demo/demo.mp4) 📽️
 
 ## Getting Started
 
@@ -57,12 +60,13 @@
 
 ## Future Work
 
-🔮 Add lap time functionality.
-⏱️ Implement a countdown timer mode.
+Add lap time functionality. 🔮
+
+Implement a countdown timer mode. ⏱️
 
 ## Contributing
 
-🤝 Contributions are welcome! Here's how you can contribute:
+Contributions are welcome! Here's how you can contribute: 🤝
 
 1. Fork this repository.
 
@@ -76,8 +80,8 @@
 
 ## Acknowledgments
 
-🙌 This project draws inspiration from educational resources provided by Egypt Make Electronics (EME).
+This project draws inspiration from educational resources provided by Egypt Make Electronics (EME). 🙌
 
 ## Contact
 
- 📧 For inquiries, please contact [e.roshdy97@gmail.com](mailto:e.roshdy97@gmail.com).
+ For inquiries, please contact [e.roshdy97@gmail.com](mailto:e.roshdy97@gmail.com). 📧
